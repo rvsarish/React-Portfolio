@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Angular FullStack Web Development Internship",
+      "organisation": "Shocals Enterprises",
+      "startDate": "Feb, 2024",
+      "endDate": "Mar, 2024",
+      "experiences": ["Worked on Developing Food Delhivery", "Real Time Login Signup Authentication Using Nest.js + Postgresql"],
+      "imageSrc": "history/shocals.jpeg"
+    },
+    {
+      "role": "Web Developer Internship",
+      "organisation": "NinjaBytes",
+      "startDate": "Dec, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": ["React Chat App","Node Js Login And Logout Authentication"],
+      "imageSrc": "history/ninjabytes.jpeg"
+    },
+    {
+      "role": "Web Developer Internship",
+      "organisation": "TechnoHacks EduTech",
+      "startDate": "Jun, 2023",
+      "endDate": "Jul, 2023",
+      "experiences": [
+        "Worked on Material UI And Bootstrap",
+        "Designed the Portfolio Using Html , Css, Js"
+      ],
+      "imageSrc": "history/TechnoHacks.png"
+    }
+  ]
